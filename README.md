@@ -14,7 +14,6 @@ These program are written in codeblocks ide for windows. These programs are not 
 - Please check your spellings before making a PR
 - Comment code properly.
 
-![alt text](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Screenshot.PNG)
 
 # List of programs
 - [Hello World!](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/HelloWorld.c)
